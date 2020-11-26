@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 
-// Responsével por criar um id único para cada repositório.
+// Responsável por criar um id único para cada repositório.
 const { v4: uuid, validate: isUuid } = require('uuid');
 
 const app = express();
