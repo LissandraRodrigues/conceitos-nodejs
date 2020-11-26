@@ -1,6 +1,8 @@
- <div align="center" id="top"> </div>
-
- <img align="center" src="go-stack.png" />
+ <div align="center" id="top">
+  <p align="center">
+  	<img heigth="180px" width="180px" src="go-stack.png" />
+  </p>
+</div>
 
  <hr/>
 
@@ -31,13 +33,17 @@
 
 ## :dart: Sobre ##
 
-<img align="center" src="challenge.png"/>
+<p align="center">
+	<img align ="center" width="500px" heigth="500px" src="challenge.png"/>
+</p>
+
 <br>
+
 Este projeto é resultado do meu primeiro desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat </a>. Nele fui desafiada a colocar em prática tudo que aprendi sobre NodeJS.
 
 ## :muscle: O que aprendi ##
 
-Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: [ :warning: ESTÁ EM CONSTRUÇÃO]
+Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: [:warning: ESTÁ EM CONSTRUÇÃO]
 
 ## :rocket: Tecnologias ##
 
