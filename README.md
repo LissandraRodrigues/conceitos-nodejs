@@ -39,7 +39,7 @@
 
 <br>
 
-Este projeto é resultado do meu primeiro desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat </a>. Nele fui desafiada a colocar em prática tudo que aprendi sobre NodeJS.
+Este projeto é resultado do meu primeiro desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre NodeJS.
 
 ## :muscle: O que aprendi ##
 
