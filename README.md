@@ -43,7 +43,7 @@ Este projeto é resultado do meu primeiro desafio de código no <a href="https:/
 
 ## :muscle: O que aprendi ##
 
-Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: [:warning: ESTÁ EM CONSTRUÇÃO]
+Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: 
 
 ## :rocket: Tecnologias ##
 
@@ -81,7 +81,7 @@ Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente 
 
 ## :books: Onde aprender mais ##
 
-- <a href='https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e'> Meu artigo sobre este módulo do Gostack; </a> [:warning: ESTÁ EM CONSTRUÇÃO]
+- <a href='https://www.notion.so/Semana-01-cc992313d1b449538026b22dcb5dde1e'> Meu artigo sobre este módulo do Gostack; </a> 
 - <a href='https://www.youtube.com/watch?v=ghTrp1x_1As'> O que é API? REST e RESTful? (Youtube - Rocketseat); </a>
 - <a href='https://becode.com.br/o-que-e-api-rest-e-restful/'> O que é API? REST e RESTful? Conheça as definições e diferenças </a>
 
