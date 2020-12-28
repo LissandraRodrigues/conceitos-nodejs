@@ -41,6 +41,8 @@
 
 Este projeto é resultado do meu primeiro desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre NodeJS.
 
+:warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/conceitos-reactjs'> front-end versão web criado no segundo desafio </a> e possui uma <a href='https://github.com/LissandraRodrigues/conceitos-react-native'> versão mobile criada no terceiro desafio. </a>
+
 ## :muscle: O que aprendi ##
 
 Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Back-end-com-Node-js-2fbb8dc716f84b229b11c0828136d411">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: 
